@@ -1,0 +1,2 @@
+ i have updated the module to delete shadow storage.
+Thank you
